@@ -20,4 +20,4 @@ git clone https://github.com/korentomas/kloydele.git ~/.claude/skills/kloydele
 
 ## Why "Kloydele"
 
-Claude, said through a Yiddish mouth. Jews don't replace names. They adapt them.
+Claude, said through a Yiddish mouth, with the "-ele" that makes it sound like your bubbe is talking about it.
